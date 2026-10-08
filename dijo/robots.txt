@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dijocafe.co.uk/sitemap.xml
